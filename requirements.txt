@@ -1,0 +1,9 @@
+requests
+bs4
+fake-useragent
+tqdm
+colorama
+rich
+inquirer
+mechanize
+stdiomask
