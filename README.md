@@ -36,7 +36,7 @@ $python main.py
 ### Output
 Ini adalah output dari program tersebut.
 
-<img src="screenshot/20230907_233713.png">
+<img src="screenshot/ss.png">
 
 ### Kontak Saya
 
